@@ -1,0 +1,28 @@
+# main links links
+main:
+  - title: "About Me"
+    url: "/#about-me"
+
+  - title: "News"
+    url: "/#-news"
+
+  - title: "Work Experience"
+    url: "/#-work-experience"
+
+  - title: "Educations"
+    url: "/#-educations"
+
+  - title: "Academic Service"
+    url: "/#-academic-service"
+
+  - title: "Tutorials"
+    url: "/#-tutorials"
+
+  - title: "Refereed Publications"
+    url: "/#-refereed-publications"
+
+  - title: "Friend Links"
+    url: "/#-friend-links"
+
+
+
