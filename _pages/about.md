@@ -56,10 +56,6 @@ Hello! I am currently a Postdoctoral Research Fellow at the School of Computing 
 
 {% include_relative publication/2024.md %}
 
-{% include_relative publication/2023.md %}
-
-{% include_relative publication/2022.md %}
-
 # 📎 Friend Links
 - Prof. [Guansong Pang](https://sites.google.com/site/gspangsite/), Singapore Management University, Singapore
 - Dr. [Hui He](https://hh4ts.github.io/), Singapore Management University, Singapore
