@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span> 
 
-Hello! I am currently a Postdoctoral Research Fellow at the School of Computing and Information Systems (SCIS), [Singapore Management University (SMU)](https://www.smu.edu.sg/), working with [Prof. Guansong Pang](https://sites.google.com/site/gspangsite/). Prior to joining SMU, I received my PhD degree from Nanjing University of Science and Technology (NJUST), under the supervision of [Prof. Hui Yan](https://gsmis.njust.edu.cn/open/TutorInfo.aspx?dsbh=qGBJ5b8UwI!inYeh78jyfw==&yxsh=z70ppxVSQAs=&zydm=SwsWR9zpmmw=). My research interests focus on graph data mining, graph anomaly detection, and graph foundation model.
+Hello! I am currently a Postdoctoral Research Fellow at the School of Computing and Information Systems (SCIS), [Singapore Management University (SMU)](https://www.smu.edu.sg/), working with [Prof. Guansong Pang](https://sites.google.com/site/gspangsite/). Prior to joining SMU, I received my PhD degree from [Nanjing University of Science and Technology (NJUST)](https://www.njust.edu.cn/), under the supervision of [Prof. Hui Yan](https://gsmis.njust.edu.cn/open/TutorInfo.aspx?dsbh=qGBJ5b8UwI!inYeh78jyfw==&yxsh=z70ppxVSQAs=&zydm=SwsWR9zpmmw=). My research interests focus on graph data mining, graph anomaly detection, and graph foundation model.
 
 
 # 🔥 News
