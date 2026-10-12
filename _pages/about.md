@@ -26,7 +26,7 @@ Hello! I am currently a Postdoctoral Research Fellow at the School of Computing 
 - *2025.05*: &nbsp;🎉🎉 One paper has been accepted by ICML'25! Many thanks to my collaborators.
 
 # 💼 Work Experience
-- *2026.02 - Now*, Postdoc, School of Computing and Information Systems, Singapore Management University, Singapore.
+- *2026.07 - Now*, Postdoc, School of Computing and Information Systems, Singapore Management University, Singapore.
 
 # 🎓 Educations
 - *2020.09 - 2026.06*, Ph.D., School of Computer Science and Engineering, Nanjing University of Science and Technology, China.
