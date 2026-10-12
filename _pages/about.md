@@ -58,7 +58,7 @@ Hello! I am currently a Postdoctoral Research Fellow at the School of Computing 
 
 # 📎 Friend Links
 - Prof. [Guansong Pang](https://sites.google.com/site/gspangsite/), Singapore Management University, Singapore
-- Dr. [Hui He](https://hh4ts.github.io/), Singapore Management University, Singapore
+- Prof. [Chaoxi Niu](https://www.linkedin.com/in/chaoxi-niu-bb8008244), City University Of Macau, Macau, China
 - Dr. [Hezhe Qiao](https://hezheqiao2022.github.io/), Singapore Management University, Singapore
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=250&t=tt&d=rlVnmh50IOmOPOW6tIm2OnOeG7JG5s5-zdf0AOD1z7M&co=2d78ad&ct=ffffff&cmo=3acc3a&cmn=ff5353'></script>
