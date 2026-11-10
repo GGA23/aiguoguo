@@ -41,7 +41,7 @@ Hello! I am currently a Postdoctoral Research Fellow at the School of Computing 
   - Pattern Recognition (PR)
   - Neurocomputing
 - **PC Members**
-  - AAAI 2026
+  - AAAI 2027
   - NeurIPS 2025
   - ICML 2026
 
